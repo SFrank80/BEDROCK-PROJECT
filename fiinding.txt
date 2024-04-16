@@ -1,0 +1,32 @@
+Here is the list of the top 30 holdings whose share count has changed between January and February:
+
+1. Microsoft Corp (MSFT): Increase of 66,093 shares
+2. Apple Inc (AAPL): Increase of 130,016 shares 
+3. NVIDIA Corp (NVDA): Increase of 21,968 shares
+4. Amazon.com Inc (AMZN): Increase of 80,876 shares
+5. Meta Platforms Inc (META): Increase of 19,740 shares
+6. Alphabet Inc (GOOGL): Increase of 52,627 shares
+7. Alphabet Inc (GOOG): Increase of 44,287 shares
+8. Eli Lilly & Co (LLY): Increase of 7,105 shares
+9. Broadcom Inc (AVGO): Increase of 3,920 shares
+10. Tesla Inc (TSLA): Increase of 24,605 shares
+11. Advanced Micro Devices Inc (AMD): Increase of 14,363 shares
+12. Salesforce Inc (CRM): Increase of 8,645 shares
+13. Visa Inc (V): Increase of 9,345 shares
+14. Mastercard Inc (MA): Increase of 5,298 shares
+15. Netflix Inc (NFLX): Increase of 3,885 shares
+16. Adobe Inc (ADBE): Increase of 4,060 shares
+17. Intuit Inc (INTU): Increase of 2,485 shares
+18. Oracle Corp (ORCL): Increase of 14,140 shares
+19. UnitedHealth Group Inc (UNH): Increase of 3,115 shares
+20. Applied Materials Inc (AMAT): Increase of 7,455 shares
+21. Uber Technologies Inc (UBER): Increase of 18,305 shares
+22. ServiceNow Inc (NOW): Increase of 1,820 shares
+23. Procter & Gamble Co/The (PG): Increase of 8,190 shares
+24. Home Depot Inc/The (HD): Increase of 3,290 shares
+25. Costco Wholesale Corp (COST): Increase of 1,645 shares
+26. Merck & Co Inc (MRK): Increase of 9,018 shares
+27. Accenture PLC (ACN): Increase of 3,010 shares
+28. Lam Research Corp (LRCX): Increase of 1,164 shares
+29. Booking Holdings Inc (BKNG): Increase of 315 shares
+30. AbbVie Inc (ABBV): Increase of 5,810 shares

@@ -1,4 +1,4 @@
-![Alt text](/Presentation1.gif)
+
 
 ---
 

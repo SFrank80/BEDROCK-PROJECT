@@ -1,3 +1,7 @@
+![Alt text](/Presentation1.gif)
+
+---
+
 README for Vanguard Stock Holdings Analysis Using Generative AI
 
 # Project Overview
